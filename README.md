@@ -1,0 +1,1 @@
+"O aplicativo tem o objetivo de mapear os padrões de navegação do usuário, traçar o perfil do que ele acessa normalmente e informar quais recursos do dispositivo estão sendo afetados pelo comportamento do usuário na interação com o equipamento móvel. Além de sugerir mudanças de comportamento".
